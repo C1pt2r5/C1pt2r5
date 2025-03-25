@@ -11,9 +11,10 @@ C1pt2r5/C1pt2r5 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 Website GitHub followers
-💻 Full Stack Developer | Rust Enthusiast
+💻 Backend Developer | Penetration tester Enthusiast
 
 I'm a passionate developer working on various projects across different technologies. Currently focusing on backend development and web applications Penetration tester.
+
 🔭 Current Projects
 
     Network Monitoring system - Random forest algorithm based detect and give the isolation point to denote the Anomaly behaviours.
