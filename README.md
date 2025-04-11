@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @C1pt2r5
+- 👋 Hi, I’m Vaibhav Kumar
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -25,7 +25,7 @@ I'm a passionate developer working on various projects across different technolo
     Languages: C++, Python, JavaScript
     Web Development: React.js, Node.js
     Backend Development: Node.js, Express.js
-    Tools & Platforms: Security Vunerability Analysis, Packet monitoring 
+    Tools & Platforms: Security Vunerability Analysis, Packet monitoring , TryHackeMe , HackTheBox, OverTheWire, 
 
 
 📊 GitHub Stats
